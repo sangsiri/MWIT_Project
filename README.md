@@ -36,7 +36,7 @@ Project กลุ่ม ของสาขาคอมพิวเตอร์ �
 4. Slider ให้ตั้งค่าไปที่ V0 สำหรับส่งค่า ไปยัง AX-WiFi
 
 Related Post
-https://youtu.be/gpqesnBAggE (ตัวอย่างวิดีโอ https://youtu.be/gpqesnBAggE)
+https://youtu.be/gpqesnBAggE (ตัวอย่างวิดีโอ)
 https://www.facebook.com/manoch.sangsiri/posts/2061539797449354 (การนำเสนอ Project ตอนอบรม)
 https://www.facebook.com/ManochICT/posts/1967380040246844
 
