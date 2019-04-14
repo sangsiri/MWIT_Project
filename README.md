@@ -24,6 +24,7 @@ Project กลุ่ม ของสาขาคอมพิวเตอร์ �
 - https://inex.co.th/shop/education-board/iot/iot-activity-kit-blynk-version.html
 ![รายการของ activity-kit-blynk-version](https://sv1.picz.in.th/images/2019/04/14/tFs6kD.jpg)
 - หาเพิ่มเติม คือ Relay Module 1 Channel (Active high Level), สายไฟ,ปลั๊กไฟ และหลอดไฟ การเชื่อมต่อนั้นดูได้จากรูป Relay.jpg ใน Project นี้ 
+
 ![alt_text](https://sv1.picz.in.th/images/2019/04/14/tFsyaZ.jpg)
 
 การเชื่อมต่ออุปกรณ์ระหว่าง Sensor ต่างๆ กับ AX-WiFi
