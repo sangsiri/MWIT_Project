@@ -2,12 +2,15 @@
 ![alt_text](https://img.shields.io/badge/Compatible-ArduinoIDE-green.svg "bulidpassing")
 ![alt_text](https://img.shields.io/badge/Support-ESP8266-blue.svg "bulidpassing")<br>
 @15/04/2562
+
 Project กลุ่ม ของสาขาคอมพิวเตอร์ จากการอบรม Easy loT Education by Blynk
 โดยครูจากโรงเรียนพิจิตรพิทยาคม และโรงเรียนนครนายกวิทยาคม
 ![alt_text](https://sv1.picz.in.th/images/2019/04/14/tFsnO9.jpg)
+
 ในวันที่ 26-29 มีนาคม 2561 อบรมเชิงปฏิบัติการ ปี 2561 ตามโครงการพัฒนาความรู้ทางวิชาการด้านคณิตศาสตร์ และวิทยาศาสตร์ สำหรับครูระดับมัธยมศึกษาตอนปลาย รุ่นที่ 4-5 (ครั้งที่ 4 สำหรับรุ่นที่ 5) ณ โรงเรียนมหิดลวิทยานุสรณ์
 
 ![alt_text](https://sv1.picz.in.th/images/2019/04/14/tFsHzb.jpg)
+
 หลักการทำงาน
 1. นำค่าความชื้่น, อุณหภูมิในอากาศ และความเข้มแสง เข้า OLED ของ AX-WiFi และ Blynk App
 2. ถ้าค่าความเข้มแสงที่ได้รับ ณ ขณะนั้น มีค่าน้อยกว่า ค่าใน Slider ใน Blynk App จะทำให้
